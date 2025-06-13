@@ -1,0 +1,13 @@
+name: Daily View Buff
+
+on:
+  schedule:
+    - cron: '0 2 * * *'
+  workflow_dispatch: 
+
+jobs:
+  visit-profile:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Curl your GitHub profile
+        run: curl -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" https://github.com/Kichirou24
