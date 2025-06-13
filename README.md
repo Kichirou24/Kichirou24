@@ -48,5 +48,9 @@
 ---
 
 <p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Kichirou24&left_color=gray&right_color=blue" alt="visitor badge"/>
+</p>
+
+<p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
